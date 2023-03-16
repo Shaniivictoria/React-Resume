@@ -1,0 +1,10 @@
+.navbar ul{
+    display: flex;
+    color: gray;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+    padding: 0 20px;
+    list-style: none;
+    text-decoration: underline;
+}
